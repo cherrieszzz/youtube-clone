@@ -1,3 +1,8 @@
 export default function Feed() {
-    return null;
+    // TODO：实现主页
+    return (
+        <>
+
+        </>
+    );
 }
