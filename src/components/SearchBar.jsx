@@ -19,7 +19,7 @@ function SearchBar(props) {
         <Paper
             component='form'
             onSubmit={onhandleSubmit}
-            xs={{
+            sx={{
                 borderRadius:'30',
                 border:'1px solid #e3e3e3',
                 pl:2,
